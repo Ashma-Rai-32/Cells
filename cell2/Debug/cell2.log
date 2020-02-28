@@ -1,0 +1,20 @@
+﻿  MainMenuState.cpp
+C:\Users\raiup\source\repos\cell2\cell2\MainMenuState.cpp(54,78): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\raiup\source\repos\cell2\cell2\MainMenuState.cpp(54,57): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+  cell2.vcxproj -> C:\Users\raiup\source\repos\cell2\Debug\cell2.exe

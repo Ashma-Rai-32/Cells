@@ -1,0 +1,12 @@
+﻿  Entity.cpp
+  Game.cpp
+  GameState.cpp
+  main.cpp
+  MainMenuState.cpp
+  State.cpp
+  Generating code
+  89 of 602 functions (14.8%) were compiled, the rest were copied from previous compilation.
+    6 functions were new in current compilation
+    76 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  cell2.vcxproj -> C:\Users\raiup\source\repos\cell2\Release\cell2.exe
